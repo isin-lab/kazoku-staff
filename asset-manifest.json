@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kazoku-staff/static/css/main.56729222.css",
-    "main.js": "/kazoku-staff/static/js/main.3ee1b78e.js",
+    "main.js": "/kazoku-staff/static/js/main.751c3053.js",
     "static/media/logoK.svg": "/kazoku-staff/static/media/logoK.ed35921f2fc859ad2259fc8a7e86d017.svg",
     "static/media/rolMaguro.webp": "/kazoku-staff/static/media/rolMaguro.6dff1f654a262bdb8369.webp",
     "static/media/tartarTunec.webp": "/kazoku-staff/static/media/tartarTunec.8d7a445d49cf0f3f74b6.webp",
@@ -22,10 +22,10 @@
     "static/media/rs.svg": "/kazoku-staff/static/media/rs.ebed24fd7273e2b586d954f2afa93693.svg",
     "index.html": "/kazoku-staff/index.html",
     "main.56729222.css.map": "/kazoku-staff/static/css/main.56729222.css.map",
-    "main.3ee1b78e.js.map": "/kazoku-staff/static/js/main.3ee1b78e.js.map"
+    "main.751c3053.js.map": "/kazoku-staff/static/js/main.751c3053.js.map"
   },
   "entrypoints": [
     "static/css/main.56729222.css",
-    "static/js/main.3ee1b78e.js"
+    "static/js/main.751c3053.js"
   ]
 }
