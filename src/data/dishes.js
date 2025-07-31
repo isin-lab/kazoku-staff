@@ -4393,7 +4393,7 @@ export const dishes = {
 			},
 			{
 				name: 'Сок лайма',
-				weight: 4,
+				weight: 40,
 				unit: 'гр',
 			},
 			{

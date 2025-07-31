@@ -1,0 +1,91 @@
+{
+	"short_name": "KAZOKU",
+	"name": "KAZOKU STAFF",
+	"description": "Всегда под рукой",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "64x64 32x32 24x24 16x16",
+			"type": "image/x-icon"
+		},
+		{
+			"src": "logoK152.png",
+			"sizes": "152x152",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "logoK167.png",
+			"sizes": "167x167",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "logoK180.png",
+			"sizes": "180x180",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "logoK180.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "logoK180.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	],
+	"start_url": ".",
+	"scope": "/",
+	"display": "standalone",
+	"orientation": "portrait",
+	"theme_color": "#121212",
+	"background_color": "#121212",
+	"categories": ["business", "productivity", "utilities"],
+	"screenshots": [
+		{
+			"src": "screenshot1.png",
+			"sizes": "1080x1920",
+			"type": "image/png",
+			"form_factor": "narrow"
+		},
+		{
+			"src": "screenshot2.png",
+			"sizes": "1920x1080",
+			"type": "image/png",
+			"form_factor": "wide"
+		}
+	],
+	"shortcuts": [
+		{
+			"name": "Меню",
+			"short_name": "Меню",
+			"description": "Открыть основное меню",
+			"url": "/menu",
+			"icons": [
+				{
+					"src": "icon-menu.png",
+					"sizes": "96x96",
+					"type": "image/png"
+				}
+			]
+		},
+		{
+			"name": "Избранное",
+			"short_name": "Избранное",
+			"description": "Открыть избранные блюда",
+			"url": "/favorites",
+			"icons": [
+				{
+					"src": "icon-fav.png",
+					"sizes": "96x96",
+					"type": "image/png"
+				}
+			]
+		}
+	]
+}

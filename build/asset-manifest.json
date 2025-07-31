@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/kazoku-staff/static/css/main.56729222.css",
+    "main.js": "/kazoku-staff/static/js/main.3ee1b78e.js",
+    "static/media/logoK.svg": "/kazoku-staff/static/media/logoK.ed35921f2fc859ad2259fc8a7e86d017.svg",
+    "static/media/rolMaguro.webp": "/kazoku-staff/static/media/rolMaguro.6dff1f654a262bdb8369.webp",
+    "static/media/tartarTunec.webp": "/kazoku-staff/static/media/tartarTunec.8d7a445d49cf0f3f74b6.webp",
+    "static/media/Ruberoid-Regular.eot": "/kazoku-staff/static/media/Ruberoid-Regular.73e845f6e1d531753e9d.eot",
+    "static/media/Ruberoid-Regular.ttf": "/kazoku-staff/static/media/Ruberoid-Regular.d8a230f110d3cb8da735.ttf",
+    "static/media/tartarRis.webp": "/kazoku-staff/static/media/tartarRis.9faeece4f22b5430deca.webp",
+    "static/media/rolTomYam.webp": "/kazoku-staff/static/media/rolTomYam.794bb0ccb1f943a59d15.webp",
+    "static/media/guncShiso.webp": "/kazoku-staff/static/media/guncShiso.32b2789ba0decad2a76f.webp",
+    "static/media/nigMaguro.webp": "/kazoku-staff/static/media/nigMaguro.b601edb8d1d06ed3de1e.webp",
+    "static/media/rolDarado.webp": "/kazoku-staff/static/media/rolDarado.fdf76712ddcec9a09c98.webp",
+    "static/media/mentLosos.webp": "/kazoku-staff/static/media/mentLosos.d6e46f540bb3f188d172.webp",
+    "static/media/nigLosos.webp": "/kazoku-staff/static/media/nigLosos.7311a1311ca0761243d0.webp",
+    "static/media/mentMaguro.webp": "/kazoku-staff/static/media/mentMaguro.c3bad8b7aa31131606d0.webp",
+    "static/media/onigiri.webp": "/kazoku-staff/static/media/onigiri.3c2ba2651f20c3d567c6.webp",
+    "static/media/maguroDomb.webp": "/kazoku-staff/static/media/maguroDomb.cc381d72444e16b6c2c4.webp",
+    "static/media/Ruberoid-Regular.woff": "/kazoku-staff/static/media/Ruberoid-Regular.d28c5a9a2fe714064a39.woff",
+    "static/media/Ruberoid-Regular.woff2": "/kazoku-staff/static/media/Ruberoid-Regular.aeaf80fb27a71009fe78.woff2",
+    "static/media/rs.svg": "/kazoku-staff/static/media/rs.ebed24fd7273e2b586d954f2afa93693.svg",
+    "index.html": "/kazoku-staff/index.html",
+    "main.56729222.css.map": "/kazoku-staff/static/css/main.56729222.css.map",
+    "main.3ee1b78e.js.map": "/kazoku-staff/static/js/main.3ee1b78e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56729222.css",
+    "static/js/main.3ee1b78e.js"
+  ]
+}
